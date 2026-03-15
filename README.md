@@ -103,5 +103,4 @@ curl -X POST http://localhost:3000/api/task \
 
 Created with ❤️ by Corleone & 🤖 Powered by Gemini.
 
-```
 
