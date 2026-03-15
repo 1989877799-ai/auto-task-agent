@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Auto-Task Agent: 基于 ReAct 架构的轻量级自主智能体
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -37,6 +36,7 @@ auto-task-agent/
 │   ├── index.js              # Express 服务与子进程调度
 │   └── package.json
 └── README.md
+
 
 ```
 
